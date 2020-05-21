@@ -6,5 +6,5 @@ register(
 )
 register(
     id='env-extrahard-v0',
-    entry_point='gym_env.envs:FooExtraHardEnv',
+    entry_point='gym_env.envs:EnvExtraHardEnv',
 )
